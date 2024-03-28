@@ -16,21 +16,21 @@ Olá! Meu nome é Douglas, tenho 26 anos, sou potiguar e adoro esportes. Tenho q
 
 ### Hard Skills:
 
-Python (scikit-learn, pandas, numpy, matplotlib, seaborn)
-SQL
-Estatística descritiva e inferencial aplicada à análise de dados
-Excel e PowerBI
-Product Discovery
+- Python (scikit-learn, pandas, numpy, matplotlib, seaborn)
+- SQL
+- Estatística descritiva e inferencial aplicada à análise de dados
+- Excel e PowerBI
+- Product Discovery
 
 <br>
 <br>
 
 ### Soft Skills:
 
-Comunicativo
-Trabalho em equipe
-Proatividade
-Adaptável
-Versátil
+- Comunicativo
+- Trabalho em equipe
+- Proatividade
+- Adaptável
+-Versátil
 <br>
 <br>
