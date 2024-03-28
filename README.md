@@ -34,3 +34,8 @@ Olá! Meu nome é Douglas, tenho 26 anos, sou potiguar e adoro esportes. Tenho q
 -Versátil
 <br>
 <br>
+
+## Projetos em que atuei:
+Atuei na construção de um modelo (baseado em classificação binária) para prever o tempo de internação de pacientes com Síndrome Aguda Respiratória Grave (SARG), utilizando dados do SUS. Caso tenha interesse em saber mais detalhes, segue o link: https://www.linkedin.com/posts/douglasonassis_modelo-de-previs%C3%A3o-do-tempo-de-interna%C3%A7%C3%A3o-activity-6995906754173677568-CTNl?utm_source=share&utm_medium=member_desktop
+<br>
+<br>
