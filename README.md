@@ -21,6 +21,7 @@ SQL
 Estatística descritiva e inferencial aplicada à análise de dados
 Excel e PowerBI
 Product Discovery
+
 <br>
 
 <br>
