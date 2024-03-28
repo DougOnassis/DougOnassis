@@ -23,7 +23,6 @@ Excel e PowerBI
 Product Discovery
 
 <br>
-
 <br>
 
 ### Soft Skills:
@@ -34,5 +33,4 @@ Proatividade
 Adaptável
 Versátil
 <br>
-
 <br>
