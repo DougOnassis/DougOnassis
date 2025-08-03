@@ -5,8 +5,8 @@ Olá! Bem-vindo(a) ao meu repositório!
 ## Minha experiência:
 
 🌐 Tenho experiência em trabalhar com Excel, SQL, Power BI, Python e suas bibliotecas para Análise de Dados. <br>
-🎲 Atualmente, trabalho como estagiário de Dados em uma healthtech.  <br>
-📚 Estou no penúltimo período do curso de Análise e Desenvolvimento de Sistemas. <br>
+🎲 Atualmente, trabalho como Analista de Dados na Healthbit.  <br>
+📚 Graduado em Análise e Desenvolvimento de Sistemas. <br>
 📧 Quer entrar em contato comigo? Envie um e-mail para dougonassis@gmail.com <br>
 <br>
 
